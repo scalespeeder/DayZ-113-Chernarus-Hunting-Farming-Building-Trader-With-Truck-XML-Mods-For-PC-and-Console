@@ -28,7 +28,16 @@ functioning of your server.
 
 To install these files simply upload them over the top of your existing files and restart your server.
 
-These XML files will add trader items to the shop in Novy Sobor, with a Trader Truck parked outside. DONE.
+These XML files will add trader items to the shop in Novy Sobor, with a one-off Trader Truck parked outside. DONE.
+
+A special "Event" tuck ("VehicleTruckEvent") has also been added. The "event truck" spawns in at the top of the Ski Run in the West,
+and the idea behind it is that it is a "spare" truck that you can load up with whatever you like (edit its entry in cfgspawnabletypes),
+and it won't appear anywhere else. I wanted a truck that I could fill with weapons, or NVG, or Hesco crates, or barrels, or tents  etc,
+that could be used to "create" events elsewhere in the map eg laying out a race track at NWAF, or putting tents down for a Conquest type
+PvP event etc - in otherwords a simple way a server owner can easily spawn in a lot of items and them have the ability to drive them somewhere. DONE.
+
+The Trader Truck and Event Truck are one-off spawns. To make them spawn in again, either "ruin" the engines or disable and re-enable the
+event.
 
 Items spawn in pristine. DONE.
 

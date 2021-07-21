@@ -979,7 +979,7 @@
         <active>1</active>
         <children>
             <!-- <child lootmax="0" lootmin="0" max="45" min="40" type="Truck_01_Covered"/> -->
-            <child lootmax="0" lootmin="0" max="45" min="40" type="Truck_01_Covered_Blue"/> 
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Truck_01_Covered_Blue"/> 
             <!-- <child lootmax="0" lootmin="0" max="1" min="1" type="Truck_01_Covered_Orange"/> -->
         </children>
 		  </event>
